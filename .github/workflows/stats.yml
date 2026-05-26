@@ -16,6 +16,7 @@ jobs:
       - uses: StefVuck/Github-Language-Stats@v1.2.0
         with:
           github_token: ${{ secrets.STATS_TOKEN }}
-          visualization_types: "pie donut"
+          visualization_types: "pie"
           output_path: "stats"
           dark_mode: "true"
+          exclude_languages: ""
