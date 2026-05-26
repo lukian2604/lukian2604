@@ -25,7 +25,7 @@ const luchian = {
 ## 🛠️ Languages from my Repos
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukian2604&layout=compact&langs_count=20&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=ffffff" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukian2604&layout=compact&langs_count=10&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=ffffff&cache_seconds=1800" />
 </div>
 
 ---
@@ -33,11 +33,9 @@ const luchian = {
 ## 📊 GitHub Stats
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lukian2604&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=ffffff&count_private=true" />
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukian2604&layout=donut&langs_count=10&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=ffffff" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lukian2604&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=ffffff&count_private=true&cache_seconds=1800" />
 <br/><br/>
-<img src="https://streak-stats.demolab.com?user=lukian2604&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
+<img src="https://streak-stats.demolab.com?user=lukian2604&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&cache_seconds=1800" />
 </div>
 
 ---
