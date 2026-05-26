@@ -44,7 +44,7 @@ const luchian = {
 ## 🗂️ Languages from my Repos
 
 <div align="center">
-<img width="100%" src="stats/leaderboard_by_bytes.png" />
+<img width="100%" src="stats/pie_by_weighted.png" />
 </div>
 
 ---
