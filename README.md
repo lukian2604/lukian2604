@@ -44,7 +44,7 @@ const luchian = {
 ## 🗂️ Languages from my Repos
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukian2604&layout=compact&langs_count=20&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=ffffff&cache_seconds=1800" />
+<img width="100%" src="stats/leaderboard_by_bytes.png" />
 </div>
 
 ---
@@ -72,3 +72,4 @@ const luchian = {
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=80&section=footer" />
 </div>
+v>
