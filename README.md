@@ -72,4 +72,3 @@ const luchian = {
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=80&section=footer" />
 </div>
-v>
